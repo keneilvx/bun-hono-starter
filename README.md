@@ -1,5 +1,4 @@
-# hymn-verse-api-new
-
+# bun-hono-starter
 To install dependencies:
 
 ```bash
