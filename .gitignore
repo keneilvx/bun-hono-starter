@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.*
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Build files
+dist/
+build/
+SQL/
+# Database
+*.db
+*.sqlite
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.swp
+*.swo
+.pem
